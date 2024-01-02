@@ -1,4 +1,5 @@
-﻿using System;
+//Copyright (C) Silver Wolf 2023-2024, All Rights Reserved.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using PluginAPI.Core.Attributes;
